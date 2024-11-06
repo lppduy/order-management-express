@@ -1,0 +1,14 @@
+# Ignore node modules and other unwanted files
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.git
+.gitignore
+.vscode
+.idea
+.env
+logs
+tmp
+dist
+coverage

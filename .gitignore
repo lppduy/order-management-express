@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Docker files
+docker-compose.override.yml
+docker-compose.dev.yml
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+tmp/
+dist/
+coverage/
